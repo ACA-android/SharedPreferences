@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Հեռախոս</string>
+
+    <string name="save_btn">Պահպանել</string>
+
+    <string name="shared_pref_key_note">note</string>
+</resources>
